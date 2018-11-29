@@ -42,7 +42,7 @@ p {
 }
 
 .btn:hover {
-  display: inline-inline-block;
+  display: inline-block;
   color: #fff;
   background-color: #666;
   border-color: #666;
